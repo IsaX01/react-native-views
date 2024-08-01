@@ -1,4 +1,3 @@
-// You can explore the built-in icon families and icons on the web at https://icons.expo.fyi/
 import React from 'react';
 import * as Icons from '@mui/icons-material';
 import { SvgIconProps } from '@mui/material/SvgIcon';
